@@ -44,8 +44,9 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gesqueda&theme=dark&show_icons=true&hide_border=false&count_private=true)<br/>
-<br>
+![](https://github-readme-stats.vercel.app/api?username=gesqueda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gesqueda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gesqueda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
