@@ -4,9 +4,9 @@
 # Developer in process...
 
 <div align="center">
-  <a href="https://analystcave.com/wp-content/uploads/2014/10/VBA-Progress-Bar.gif">
-  <img  src="https://analystcave.com/wp-content/uploads/2014/10/VBA-Progress-Bar.gif"
-       alt="loading" 
+  <a href="./progress-bar.gif">
+  <img  src="./progress-bar.gif"
+       alt="progress-bar" 
     /></a>
 </div>
 <br>
