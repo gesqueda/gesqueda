@@ -14,7 +14,7 @@
 ## I'm a Computer Science Engineering student from Jalisco, MX
 
 - 📚 Studying at UDG CUALTOS
-- 👾 Currently learning c++
+- 👾 Currently learning web programming
 - 📔 2026 goals finish my social service
 
 <br>
