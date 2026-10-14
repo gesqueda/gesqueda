@@ -45,14 +45,6 @@
 <img align="left" alt="git" width="50px" src="https://skillicons.dev/icons?i=git" /> 
 
 <br>
-<br>
-<br> 
-<br> 
-
-### Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gerardo_esqued4) 
-
-<br>
 
 # 📊 GitHub Stats:
 ![](./profile-summary-card-output/github_dark/3-stats.svg)<br/>
