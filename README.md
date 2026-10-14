@@ -3,6 +3,8 @@
 
 # Developer in process...
 
+![](https://raw.githubusercontent.com/gesqueda/gesqueda/output/github-snake-dark.svg)<br/>
+
 <div align="center">
   <a href="./progress-bar.gif">
   <img  src="./progress-bar.gif"
