@@ -9,7 +9,6 @@
        alt="progress-bar" 
     /></a>
 </div>
-<br>
 
 ## I'm a Computer Science Engineering student from Jalisco, MX
 
