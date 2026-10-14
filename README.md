@@ -54,9 +54,14 @@
 <br>
 
 # 📊 GitHub Stats:
-![](./profile-summary-card-output/github_dark/3-stats.svg)<br/>
-![](https://streak-stats.demolab.com/?user=gesqueda&theme=dark&hide_border=false)<br/>
-![](https://raw.githubusercontent.com/gesqueda/gesqueda/output/github-snake-dark.svg)<br/>
+<div align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="170" alt="stats" />
+  <img src="https://streak-stats.demolab.com/?user=gesqueda&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=6" height="170" alt="streak" />
+</div>
+<div align="center">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="170" alt="languages" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" height="170" alt="productive time" />
+</div>
 
 
 ---
