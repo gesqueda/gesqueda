@@ -3,8 +3,6 @@
 
 # Developer in process...
 
-![](https://raw.githubusercontent.com/gesqueda/gesqueda/output/github-snake-dark.svg)<br/>
-
 <div align="center">
   <a href="./progress-bar.gif">
   <img  src="./progress-bar.gif"
@@ -57,6 +55,7 @@
 # 📊 GitHub Stats:
 ![](./profile-summary-card-output/github_dark/3-stats.svg)<br/>
 ![](https://streak-stats.demolab.com/?user=gesqueda&theme=dark&hide_border=false)<br/>
+![](https://raw.githubusercontent.com/gesqueda/gesqueda/output/github-snake-dark.svg)<br/>
 
 
 ---
